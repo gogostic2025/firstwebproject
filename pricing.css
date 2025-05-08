@@ -1,0 +1,30 @@
+header{
+
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.navLinks{
+    border: 2px solid blue;
+    align-items: center;
+    display: flex;
+    list-style-type:none ;
+    justify-content: space-evenly;
+    width: 40%;
+    margin-right: 50px;
+    color: rgb(113, 113,113);
+    font-weight: 900;
+}
+.navLinks a{
+    text-decoration:none ;
+    color: rgb(113, 113,113);
+    font-weight: 900;
+}
+.logo{
+    margin-left: 50px;
+}
+body{
+    margin: 0px;
+}
